@@ -1,0 +1,2 @@
+username,password,amount,budget,total_spent,loans,recurring
+sathish_79,Ss@900021,120000.0,0,0,0,
